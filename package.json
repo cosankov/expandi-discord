@@ -1,0 +1,9 @@
+{
+  "name": "expandi-discord",
+  "version": "1.0.0",
+  "description": "Expandi webhook → Discord notification relay",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
